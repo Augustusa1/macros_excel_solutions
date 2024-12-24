@@ -2,6 +2,7 @@
 A repository saving macros to solve executive problems.
 
 Cómo Usar el Script
+
 1 Configura las hojas:
 
   En Hoja1, coloca los nombres oficiales en la columna A.
